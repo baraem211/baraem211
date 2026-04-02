@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 내가 공부하는 내용의 링크
+### 내가 공부하는 내용의 링크 (밴드)
 
 https://www.band.us/band/101702520/post
