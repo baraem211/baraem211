@@ -9,7 +9,7 @@ https://www.band.us/band/101702520/post
 
 <b>첫번째 프로젝트 (AI스캐줄러)</b>
 
-https://baraem211.github.io/myfirstREPO/index.html</P>
+https://baraem211.github.io/myfirstREPO/index.html</P><br></br>
 
 <!--
 **baraem211/baraem211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
