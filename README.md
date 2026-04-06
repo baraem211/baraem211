@@ -19,7 +19,7 @@ https://baraem211.github.io/myfirstREPO/index.html
 
 Here are some ideas to get you started:
 -->
-<br></br>
+
 - 🔭 I’m currently working on ... 백수상태>.< 놀아요어어..
 - 🌱 I’m currently learning ... 우송대에서 바이오헬스를 공부하고 있어요.
   <!--
