@@ -10,7 +10,6 @@ https://www.band.us/band/101702520/post
 <b>첫번째 프로젝트 (AI스캐줄러)</b>
 
 https://baraem211.github.io/myfirstREPO/index.html</P><br></br>
-<img width="741" height="317" alt="image" src="https://github.com/user-attachments/assets/78b81be8-e2bd-4434-89e8-5835975f3aa2" />
 
 
 <!--
