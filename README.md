@@ -1,5 +1,6 @@
 #### Hi there 👋
-#### 안녕하세요. 2025년 바이오헬스 아카데미 2기 수강생인 최주연입니다.<img width="100" alt="image" src="https://github.com/user-attachments/assets/b74d4ae5-e80e-4f2d-9221-7eaeeb55af94" />
+#### 안녕하세요. 2025년 바이오헬스 아카데미 2기 수강생인 최주연입니다.<img width="100" alt="image" src="https://github.com/user-attachments/assets/2d648ae6-dd67-4e7f-a8dc-944bc62aceb9" />
+
 <p aligh="center">
   <img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/95cf78a2-981a-488b-bebe-540d5ebfd829" /></p>
 
