@@ -15,7 +15,7 @@ https://baraem211.github.io/myfirstREPO/index.html
 
 상세설명 : https://github.com/baraem211/myfirstREPO
 
-https://github.com/baraem211/objectaicam/blob/5da140adf82019dc7e596337e77138ab05e904da/index.html
+사물인식 : 
 </P>
 <!--
 **baraem211/baraem211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
