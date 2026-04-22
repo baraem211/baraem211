@@ -19,7 +19,7 @@ https://baraem211.github.io/myfirstREPO/index.html
 
 https://baraem211.github.io/objectaicam/index.html
 
- 상세설명 : 
+ 상세설명 : https://github.com/baraem211/objectaicam
  
 </P>
 <!--
