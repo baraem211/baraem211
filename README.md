@@ -15,8 +15,8 @@ https://baraem211.github.io/myfirstREPO/index.html <br>
 
 <b>두번째 프로젝트 (사물인식)</b>
 https://baraem211.github.io/objectaicam/index.html <br>
-상세설명 : https://github.com/baraem211/objectaicam<P></P>
-
+상세설명 : https://github.com/baraem211/objectaicam
+<P></P>
 
 1. 티처블 머신을 이용한 사물인식 : https://github.com/baraem211/ObjectDetectionWithTM <br>
 2. 티처블 머신을 이용한 사물인식 결과에 따라 휴머노이드 로봇이 움직이도록 했음 : https://github.com/baraem211/robotControlWithTM <br>
