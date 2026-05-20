@@ -10,11 +10,11 @@
 https://www.band.us/band/101702520/post
 
 <b>첫번째 프로젝트 (AI스캐줄러)</b>
-https://baraem211.github.io/myfirstREPO/index.html
+https://baraem211.github.io/myfirstREPO/index.html <br>
 상세설명 : https://github.com/baraem211/myfirstREPO
 
 <b>두번째 프로젝트 (사물인식)</b>
-https://baraem211.github.io/objectaicam/index.html
+https://baraem211.github.io/objectaicam/index.html <br>
 상세설명 : https://github.com/baraem211/objectaicam<P></P>
 
 
