@@ -21,10 +21,10 @@ https://baraem211.github.io/objectaicam/index.html
 
  상세설명 : https://github.com/baraem211/objectaicam
 
-1. 티처블 머신을 이용한 사물인식 : 
+1. 티처블 머신을 이용한 사물인식 : https://github.com/baraem211/ObjectDetectionWithTM 
 2. 티처블 머신 : https://github.com/baraem211/robotControlWithTM
 3. Yolo V5를 이용한 80가지 사물인식 : https://github.com/EmmettHwang/yolov5ReadTime/fork
-
+4. Yolo V5 + Robot : https://github.com/baraem211/202605_001-YoloV5WithRobot
 
  
 </P>
