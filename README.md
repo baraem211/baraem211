@@ -20,6 +20,12 @@ https://baraem211.github.io/myfirstREPO/index.html
 https://baraem211.github.io/objectaicam/index.html
 
  상세설명 : https://github.com/baraem211/objectaicam
+
+1. 티처블 머신을 이용한 사물인식 : 
+2. 티처블 머신 : https://github.com/baraem211/robotControlWithTM
+
+
+
  
 </P>
 <!--
@@ -39,3 +45,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
