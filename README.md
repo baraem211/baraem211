@@ -23,7 +23,7 @@ https://baraem211.github.io/objectaicam/index.html
 
 1. 티처블 머신을 이용한 사물인식 : 
 2. 티처블 머신 : https://github.com/baraem211/robotControlWithTM
-
+3. Yolo V5를 이용한 80가지 사물인식 : https://github.com/EmmettHwang/yolov5ReadTime/fork
 
 
  
