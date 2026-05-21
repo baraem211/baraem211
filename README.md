@@ -22,8 +22,8 @@ https://baraem211.github.io/objectaicam/index.html <br>
    3-2 APP을 WebAPP으로 만드는것은 개인 과제 였음. <br>
 4. Yolo V5 + Robot : https://github.com/baraem211/202605_001-YoloV5WithRobot <br>
 
-5.https://baraem211.github.io/YoloV5RealTime_WebApp/ <br>
-6.https://baraem211.github.io/YoloV5WithRobot_WebApp/ <br>
+5.Yolo V5모델을 통한 사물인식 (80종, 웹앱) : https://baraem211.github.io/YoloV5RealTime_WebApp/ <br>
+6.Yolo V5 모델을 이용한 사물 인식 결과에 따른 로봇 동작(웹앱)  : https://baraem211.github.io/YoloV5-With-Robot_WebApp/ <br>
 
  
 </P>
