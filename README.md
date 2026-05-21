@@ -5,9 +5,6 @@
 <p aligh="center">
   <img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/95cf78a2-981a-488b-bebe-540d5ebfd829" /></p>
 
- <b>내가 공부하는 내용의 링크 (밴드)</b>
-
-https://www.band.us/band/101702520/post
 
 <b>첫번째 프로젝트 (AI스캐줄러)</b>
 https://baraem211.github.io/myfirstREPO/index.html <br>
