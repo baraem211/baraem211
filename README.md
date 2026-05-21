@@ -5,11 +5,11 @@
   <img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/95cf78a2-981a-488b-bebe-540d5ebfd829" /></p>
 
 
-<b>첫번째 프로젝트 (AI스캐줄러)</b>
+<b>첫번째 프로젝트 (AI스캐줄러) : </b>
 https://baraem211.github.io/myfirstREPO/index.html <br>
 상세설명 : https://github.com/baraem211/myfirstREPO
 
-<b>두번째 프로젝트 (사물인식)</b>
+<b>두번째 프로젝트 (사물인식) : </b>
 https://baraem211.github.io/objectaicam/index.html <br>
 상세설명 : https://github.com/baraem211/objectaicam
 <P></P>
