@@ -16,10 +16,10 @@ https://baraem211.github.io/objectaicam/index.html <br>
 
 1. 티처블 머신을 이용한 사물인식 : https://github.com/baraem211/ObjectDetectionWithTM <br>
 2. 티처블 머신을 이용한 사물인식 결과에 따라 휴머노이드 로봇이 움직이도록 했음 : https://github.com/baraem211/robotControlWithTM <br>
-  2-1 여기서 사용한 serial port 석택하는 것은 로봇 컨트롤 하는 부분을 모듈로 만들수 있었음. <br>
+  2-1 여기서 사용한 serial port 선택하는 것은 로봇 컨트롤 하는 부분을 모듈로 만들수 있었음. <br>
 3. Yolo V5를 이용한 80가지 사물인식 : https://github.com/baraem211/yolov5ReadTime <br>
-   3-1 위에서 만든 모듈을 이용해서 간편하게 프로그램을 완성했었다. <br>
-   3-2 APP을 WebAPP으로 만드는것은 개인 과제 였음. <br>
+   3-1 위에서 만든 모듈을 이용해서 간편하게 프로그램을 완성했었음. <br>
+   3-2 APP을 WebApp으로 만드는것은 개인 과제 였음. <br>
 4. Yolo V5 + Robot : https://github.com/baraem211/202605_001-YoloV5WithRobot <br>
 
 5.Yolo V5모델을 통한 사물인식 (80종, 웹앱) : https://baraem211.github.io/YoloV5RealTime_WebApp/ <br>
