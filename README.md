@@ -18,6 +18,7 @@ https://baraem211.github.io/CherryPocket/index.html <br>
 상세설명 : https://github.com/baraem211/CherryPocket
 
 https://www.genspark.ai/agents?id=c7835ee0-399e-4164-a4ab-18b90726d1fa
+https://eigvmasi.gensparkspace.com/
 
 <P></P>
 
