@@ -14,7 +14,7 @@ https://baraem211.github.io/objectaicam/index.html <br>
 상세설명 : https://github.com/baraem211/objectaicam
 
 <b>세번째 프로젝트 (지출방어 매니저 - 체리포켓) : </b>
-https://github.com/baraem211/Cherry-pocket/index.html <br>
+https://baraem211.github.io/Cherry-pocket/index.html <br>
 상세설명 : https://github.com/baraem211/Cherry-pocket
 <P></P>
 
