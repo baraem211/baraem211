@@ -16,7 +16,7 @@ https://baraem211.github.io/objectaicam/index.html <br>
 <b>세번째 프로젝트 (지출방어 매니저 - 체리포켓) : </b>
 https://baraem211.github.io/CherryPocket/index.html <br>
 상세설명 : https://github.com/baraem211/CherryPocket
-https://baraem211.github.io/Cherry-Pocket/index.html
+
 https://eigvmasi.gensparkspace.com/
 
 <P></P>
